@@ -1,1 +1,2 @@
 # Facial_Recognition
+Make a facial recognition program that connects to a criminal database to check if you are one. Do this by checking who the closest criminal you look like is and if > 80% (subject to change) similar, you're done kid.
